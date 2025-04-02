@@ -1,3 +1,5 @@
+**The code**
+https://github.com/ST10498309/Assignment-1-
 # Assignment-1-Fit Food 
 Fit food is designed to promote healthy eating by displaying food recommendations depending on the time of the day,it is for people who are indecicive.The app helps people make quick decisions without the stress of planning, whether it is Breakfast, Lunch, Dinner or even Snacks. Just by looking at the time, the app offers a well selected list of healthy meal options that are intended to give the body the nutrients it needs at the right time. 
 Fit Food is ideal for people who are busy or who have trouble with decision making, the app provides a quick and easy approach to keep a balanced diet. 
